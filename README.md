@@ -6,3 +6,9 @@
 -travelling <br>
 -video games <br>
 -learning languages 
+
+### Breif learned : 
+To build a new mentality for programming aside for real life way of thinking 
+and being modest in every single situation that you face during your journey and career of programming 
+and to think in way to be simple , productive and helpful to others 
+also to be patient and not assumption and predection maker . 
